@@ -75,6 +75,9 @@ body {
     display: flex;
     align-items: center;
     padding-left: 50px;
-    opacity: 0.44;
+    opacity: 0.69;
   }
-    
+  h1{
+    position: relative;
+    color: white;
+  }
