@@ -70,10 +70,11 @@ body {
   }
   .banner {
     position: relative;
-    background: url('Marvels Spider Man.jpg') center center/cover no-repeat;
+    background: url('bg.jpg');
     height: 500px;
     display: flex;
     align-items: center;
     padding-left: 50px;
+    opacity: 0.44;
   }
     
